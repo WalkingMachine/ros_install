@@ -4,9 +4,9 @@
     version: master
 
 - git:
-    local-name: sara_robot
-    uri: https://github.com/walkingmachine/sara_robot.git
-    version: develop
+    local-name: roboteq
+    uri: https://github.com/WalkingMachine/roboteq.git
+    version: indigo-devel
 
 - git:
     local-name: sara_arm_driver
