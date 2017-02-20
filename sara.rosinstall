@@ -61,7 +61,7 @@
 - git:
     local-name: sara_grasping
     uri: https://github.com/walkingmachine/sara_grasping.git
-    version: master
+    version: kinetic
 
 - git:
     local-name: sara_navigation
