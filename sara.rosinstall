@@ -106,3 +106,59 @@
     local-name: sara_vocab
     uri: https://github.com/walkingmachine/sara_vocab.git
     version: master
+
+- git:
+    local-name: ork_tutorials
+    uri: https://github.com/WalkingMachine/ork_tutorials
+    version: master
+
+- git:
+    local-name: object_recognition_msgs
+    uri: https://github.com/WalkingMachine/object_recognition_msgs
+    version: master
+
+- git:
+    local-name: object_recognition_ros_visualization
+    uri: https://github.com/WalkingMachine/object_recognition_ros_visualization
+    version: master
+
+- git:
+    local-name: object_recognition_ros
+    uri: https://github.com/WalkingMachine/object_recognition_ros
+    version: master
+
+- git:
+    local-name: transparent_objects
+    uri: https://github.com/WalkingMachine/transparent_objects
+    version: master
+
+- git:
+    local-name: tabletop
+    uri: https://github.com/WalkingMachine/tabletop
+    version: master
+
+- git:
+    local-name: ork_renderer
+    uri: https://github.com/WalkingMachine/ork_renderer
+    version: master
+
+- git:
+    local-name: linemod
+    uri: https://github.com/WalkingMachine/linemod
+    version: master
+
+- git:
+    local-name: capture
+    uri: https://github.com/WalkingMachine/capture
+    version: master
+
+- git:
+    local-name: reconstruction
+    uri: https://github.com/WalkingMachine/reconstruction
+    version: master
+
+- git:
+    local-name: object_recognition_core
+    uri: https://github.com/WalkingMachine/object_recognition_core
+    version: master
+
