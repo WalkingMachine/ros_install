@@ -178,3 +178,7 @@
 - git:
     local-name: object_recognition_msgs
     uri: https://github.com./WalkingMachine/object_recognition_msgs.git
+
+- git:
+    local-name: soem
+    uri: https://github.com/smits/soem.git
