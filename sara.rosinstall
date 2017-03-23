@@ -170,3 +170,7 @@
 - git:
     local-name: soem
     uri: https://github.com/smits/soem.git
+
+- git:
+    local-name: spencer_people_tracking
+    uri: https://github.com/spencer-project/spencer_people_tracking.git
