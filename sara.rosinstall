@@ -1,108 +1,180 @@
 - git:
+    local-name: wm_mecanum_cmd
+    uri: https://github.com/WalkingMachine/wm_mecanum_cmd.git
+   
+- git:
+    local-name: sara_description
+    uri: https://github.com/WalkingMachine/sara_description.git
+
+- git:
+    local-name: wm_tts
+    uri: https://github.com/WalkingMachine/wm_tts.git
+
+- git:
+    local-name: wm_sound_localisation
+    uri: https://github.com/WalkingMachine/wm_sound_localisation
+
+- git:
+    local-name: robotiq_c2_description
+    uri: https://github.com/WalkingMachine/robotiq_c2_description.git
+
+- git:
+    local-name: ros-system-monitor
+    uri: https://github.com/WalkingMachine/ros-system-monitor.git
+
+- git:
+    local-name: sara_ui
+    uri: https://github.com/WalkingMachine/sara_ui.git
+
+- git:
+    local-name: sara_arm_driver
+    uri: https://github.com/WalkingMachine/sara_arm_driver.git
+
+- git:
+    local-name: wm_mecanum_base_controller
+    uri: https://github.com/WalkingMachine/wm_mecanum_base_controller.git
+
+- git:
+    local-name: sara_control
+    uri: https://github.com/WalkingMachine/sara_control.git
+
+- git:
+    local-name: sara_moveit
+    uri: https://github.com/WalkingMachine/sara_moveit.git
+
+- git:
+    local-name: wm_pcl_preprocessing
+    uri: https://github.com/WalkingMachine/wm_pcl_preprocessing.git
+
+- git:
+    local-name: robotiq_hardware
+    uri: https://github.com/WalkingMachine/robotiq_hardware.git
+
+- git:
+    local-name: tabletop
+    uri: https://github.com/WalkingMachine/tabletop.git
+
+- git:
+    local-name: linemod
+    uri: https://github.com/WalkingMachine/linemod.git
+
+- git:
+    local-name: sara_hardware
+    uri: https://github.com/WalkingMachine/sara_hardware.git
+
+- git:
+    local-name: wm_supervisor
+    uri: https://github.com/WalkingMachine/wm_supervisor.git
+
+- git:
+    local-name: wm_robocup2016
+    uri: https://github.com/WalkingMachine/wm_robocup2016.git
+
+- git:
+    local-name: sara_navigation
+    uri: https://github.com/WalkingMachine/sara_navigation.git
+
+- git:
     local-name: sara_follow_me
-    uri: https://github.com/walkingmachine/sara_follow_me.git
-    version: master
+    uri: https://github.com/WalkingMachine/sara_follow_me.git
+
+- git:
+    local-name: zbar_ros
+    uri: https://github.com/WalkingMachine/zbar_ros.git
+
+- git:
+    local-name: wm_supreme_planner
+    uri: https://github.com/WalkingMachine/wm_supreme_planner.git
+
+- git:
+    local-name: wm_interpreter
+    uri: https://github.com/WalkingMachine/wm_interpreter.git
+
+- git:
+    local-name: sara_arm_msgs
+    uri: https://github.com/WalkingMachine/sara_arm_msgs.git
+
+- git:
+    local-name: sara_launch
+    uri: https://github.com/WalkingMachine/sara_launch.git
+
+- git:
+    local-name: sara_image_detection
+    uri: https://github.com/WalkingMachine/sara_image_detection.git
+
+- git:
+    local-name: sara_grasping
+    uri: https://github.com/WalkingMachine/sara_grasping.git
+    version: kinetic
+
+- git:
+    local-name: object_recognition_core
+    uri: https://github.com/WalkingMachine/object_recognition_core.git
+
+- git:
+    local-name: wm_dynamixel_controller
+    uri: https://github.com/WalkingMachine/wm_dynamixel_controller.git
+
+- git:
+    local-name: wm_odometry_feedback
+    uri: https://github.com/WalkingMachine/wm_odometry_feedback.git
+
+- git:
+    local-name: wm_ork
+    uri: https://github.com/WalkingMachine/wm_ork.git
+
+- git:
+    local-name: sara_inverse_kinematics
+    uri: https://github.com/WalkingMachine/sara_inverse_kinematics
+
+- git:
+    local-name: sara_vocab
+    uri: https://github.com/WalkingMachine/sara_vocab.git
+
+- git:
+    local-name: reconstruction
+    uri: https://github.com/WalkingMachine/reconstruction.git
+
+- git:
+    local-name: sara_speech_tts
+    uri: https://github.com/WalkingMachine/sara_speech_tts.git
 
 - git:
     local-name: roboteq
     uri: https://github.com/WalkingMachine/roboteq.git
-    version: indigo-devel
 
 - git:
-    local-name: sara_arm_driver
-    uri: https://github.com/walkingmachine/sara_arm_driver.git
-    version: master
+    local-name: ork_render
+    uri: https://github.com/WalkingMachine/ork_renderer.git
 
 - git:
-    local-name: sara_description
-    uri: https://github.com/walkingmachine/sara_description.git
-    version: master
+    local-name: sara_web
+    uri: https://github.com/WalkingMachine/sara_web.git
 
 - git:
-    local-name: zbar_ros
-    uri: https://github.com/walkingmachine/zbar_ros.git
-    version: master
+    local-name: object_recognition_ros
+    uri: https://github.com/WalkingMachine/object_recognition_ros.git
 
 - git:
-    local-name: wm_tts
-    uri: https://github.com/walkingmachine/wm_tts.git
-    version: master
+    local-name: tod
+    uri: https://github.com/WalkingMachine/tod.git
 
 - git:
-    local-name: wm_supreme_planner
-    uri: https://github.com/walkingmachine/wm_supreme_planner.git
-    version: master
+    local-name: object_recognition_ros_visualization
+    uri: https://github.com/WalkingMachine/object_recognition_ros_visualization.git
 
 - git:
-    local-name: wm_interpreter
-    uri: https://github.com/walkingmachine/wm_interpreter.git
-    version: master
+    local-name: transparent_objects
+    uri: https://github.com/WalkingMachine/transparent_objects.git
 
 - git:
-    local-name: sara_arm_msgs
-    uri: https://github.com/walkingmachine/sara_arm_msgs.git
-    version: master
+    local-name: capture
+    uri: https://github.com/WalkingMachine/capture.git
 
 - git:
-    local-name: sara_moveit
-    uri: https://github.com/walkingmachine/sara_moveit.git
-    version: master
+    local-name: ork_tutorials
+    uri: https://github.com/WalkingMachine/ork_tutorials.git
 
 - git:
-    local-name: sara_launch
-    uri: https://github.com/walkingmachine/sara_launch.git
-    version: master
-
-- git:
-   local-name: sara_image_detection
-   uri: https://github.com/walkingmachine/sara_image_detection.git
-   version: master
-
-- git:
-    local-name: sara_grasping
-    uri: https://github.com/walkingmachine/sara_grasping.git
-    version: kinetic
-
-- git:
-    local-name: sara_navigation
-    uri: https://github.com/walkingmachine/sara_navigation.git
-    version: master
-
-- git:
-    local-name: iai_kinect2
-    uri: https://github.com/walkingmachine/iai_kinect2.git
-    version: master
-
-- git:
-    local-name: wm_robocup2016
-    uri: https://github.com/walkingmachine/wm_robocup2016.git
-    version: master
-
-- git:
-    local-name: wm_supervisor
-    uri: https://github.com/walkingmachine/wm_supervisor.git
-    version: master
-
-- git:
-    local-name: wm_dynamixel
-    uri: https://github.com/walkingmachine/wm_dynamixel_controller.git
-    version: master
-
-- git:
-    local-name: wm_odometry_feedback
-    uri: https://github.com/walkingmachine/wm_odometry_feedback.git
-    version: master
-- git:
-    local-name: wm_ork
-    uri: https://github.com/walkingmachine/wm_ork.git
-    version: master
-
-- git:
-    local-name: sara_inverse_kinematics
-    uri: https://github.com/walkingmachine/sara_inverse_kinematics
-    version: master
-
-- git:
-    local-name: sara_vocab
-    uri: https://github.com/walkingmachine/sara_vocab.git
-    version: master
+    local-name: object_recognition_msgs
+    uri: https://github.com./WalkingMachine/object_recognition_msgs.git
