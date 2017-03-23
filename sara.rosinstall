@@ -23,10 +23,6 @@
     uri: https://github.com/WalkingMachine/sara_arm_driver.git
 
 - git:
-    local-name: wm_mecanum_base_controller
-    uri: https://github.com/WalkingMachine/wm_mecanum_base_controller.git
-
-- git:
     local-name: sara_control
     uri: https://github.com/WalkingMachine/sara_control.git
 
