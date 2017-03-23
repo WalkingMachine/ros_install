@@ -19,14 +19,6 @@
     uri: https://github.com/WalkingMachine/robotiq_c2_description.git
 
 - git:
-    local-name: ros-system-monitor
-    uri: https://github.com/WalkingMachine/ros-system-monitor.git
-
-- git:
-    local-name: sara_ui
-    uri: https://github.com/WalkingMachine/sara_ui.git
-
-- git:
     local-name: sara_arm_driver
     uri: https://github.com/WalkingMachine/sara_arm_driver.git
 
