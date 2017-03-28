@@ -1,8 +1,4 @@
 - git:
-    local-name: wm_mecanum_cmd
-    uri: https://github.com/WalkingMachine/wm_mecanum_cmd.git
-   
-- git:
     local-name: sara_description
     uri: https://github.com/WalkingMachine/sara_description.git
 
@@ -15,28 +11,8 @@
     uri: https://github.com/WalkingMachine/wm_sound_localisation
 
 - git:
-    local-name: robotiq_c2_description
-    uri: https://github.com/WalkingMachine/robotiq_c2_description.git
-
-- git:
-    local-name: sara_arm_driver
-    uri: https://github.com/WalkingMachine/sara_arm_driver.git
-
-- git:
-    local-name: sara_control
-    uri: https://github.com/WalkingMachine/sara_control.git
-
-- git:
-    local-name: sara_moveit
-    uri: https://github.com/WalkingMachine/sara_moveit.git
-
-- git:
     local-name: wm_pcl_preprocessing
     uri: https://github.com/WalkingMachine/wm_pcl_preprocessing.git
-
-- git:
-    local-name: robotiq_hardware
-    uri: https://github.com/WalkingMachine/robotiq_hardware.git
 
 - git:
     local-name: tabletop
@@ -45,10 +21,6 @@
 - git:
     local-name: linemod
     uri: https://github.com/WalkingMachine/linemod.git
-
-- git:
-    local-name: sara_hardware
-    uri: https://github.com/WalkingMachine/sara_hardware.git
 
 - git:
     local-name: wm_supervisor
@@ -100,20 +72,8 @@
     uri: https://github.com/WalkingMachine/object_recognition_core.git
 
 - git:
-    local-name: wm_dynamixel_controller
-    uri: https://github.com/WalkingMachine/wm_dynamixel_controller.git
-
-- git:
-    local-name: wm_odometry_feedback
-    uri: https://github.com/WalkingMachine/wm_odometry_feedback.git
-
-- git:
     local-name: wm_ork
     uri: https://github.com/WalkingMachine/wm_ork.git
-
-- git:
-    local-name: sara_inverse_kinematics
-    uri: https://github.com/WalkingMachine/sara_inverse_kinematics
 
 - git:
     local-name: sara_vocab
@@ -126,10 +86,6 @@
 - git:
     local-name: sara_speech_tts
     uri: https://github.com/WalkingMachine/sara_speech_tts.git
-
-- git:
-    local-name: roboteq
-    uri: https://github.com/WalkingMachine/roboteq.git
 
 - git:
     local-name: ork_render
@@ -166,10 +122,6 @@
 - git:
     local-name: object_recognition_msgs
     uri: https://github.com./WalkingMachine/object_recognition_msgs.git
-
-- git:
-    local-name: soem
-    uri: https://github.com/smits/soem.git
 
 - git:
     local-name: spencer_people_tracking
