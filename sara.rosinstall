@@ -174,3 +174,7 @@
 - git:
     local-name: spencer_people_tracking
     uri: https://github.com/spencer-project/spencer_people_tracking.git
+
+- git:
+    local-name: sara_robocup_2017
+    uri: https://github.com/sara_robocup_2017.git
