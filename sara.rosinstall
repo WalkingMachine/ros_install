@@ -91,11 +91,6 @@
     uri: https://github.com/WalkingMachine/sara_image_detection.git
 
 - git:
-    local-name: sara_grasping
-    uri: https://github.com/WalkingMachine/sara_grasping.git
-    version: kinetic
-
-- git:
     local-name: object_recognition_core
     uri: https://github.com/WalkingMachine/object_recognition_core.git
 
@@ -110,10 +105,6 @@
 - git:
     local-name: wm_ork
     uri: https://github.com/WalkingMachine/wm_ork.git
-
-- git:
-    local-name: sara_inverse_kinematics
-    uri: https://github.com/WalkingMachine/sara_inverse_kinematics
 
 - git:
     local-name: sara_vocab
@@ -177,4 +168,4 @@
 
 - git:
     local-name: sara_robocup_2017
-    uri: https://github.com/sara_robocup_2017.git
+    uri: https://github.com/WalkingMachine/sara_robocup_2017.git
