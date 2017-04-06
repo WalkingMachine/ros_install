@@ -178,3 +178,7 @@
 - git:
     local-name: sara_robocup_2017
     uri: https://github.com/sara_robocup_2017.git
+
+- git:
+    local-name: sara_skills
+    uri: https://github.com/sara_skills.git
