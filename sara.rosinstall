@@ -173,3 +173,7 @@
 - git:
     local-name: sara_skills
     uri: https://github.com/WalkingMachine/sara_skills.git
+    
+- git:
+    local-name: lu4r_ros
+    uri: https://github.com/WalkingMachine/lu4r_ros.git
