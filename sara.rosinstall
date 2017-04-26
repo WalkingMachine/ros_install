@@ -40,7 +40,7 @@
 
 - git:
     local-name: tabletop
-    uri: https://github.com/WalkingMachine/tabletop.git
+    uri: https://github.com/wg-perception/tabletop.git
 
 - git:
     local-name: linemod
@@ -92,7 +92,7 @@
 
 - git:
     local-name: object_recognition_core
-    uri: https://github.com/WalkingMachine/object_recognition_core.git
+    uri: https://github.com/wg-perception/object_recognition_core.git
 
 - git:
     local-name: wm_dynamixel_controller
@@ -103,16 +103,12 @@
     uri: https://github.com/WalkingMachine/wm_odometry_feedback.git
 
 - git:
-    local-name: wm_ork
-    uri: https://github.com/WalkingMachine/wm_ork.git
-
-- git:
     local-name: sara_vocab
     uri: https://github.com/WalkingMachine/sara_vocab.git
 
 - git:
     local-name: reconstruction
-    uri: https://github.com/WalkingMachine/reconstruction.git
+    uri: https://github.com/wg-perception/reconstruction.git
 
 - git:
     local-name: sara_speech_tts
@@ -132,31 +128,27 @@
 
 - git:
     local-name: object_recognition_ros
-    uri: https://github.com/WalkingMachine/object_recognition_ros.git
+    uri: https://github.com/wg-perception/object_recognition_ros.git
 
 - git:
     local-name: tod
-    uri: https://github.com/WalkingMachine/tod.git
+    uri: https://github.com/wg-perception/tod.git
 
 - git:
     local-name: object_recognition_ros_visualization
-    uri: https://github.com/WalkingMachine/object_recognition_ros_visualization.git
+    uri: https://github.com/wg-perception/object_recognition_ros_visualization.git
 
 - git:
     local-name: transparent_objects
-    uri: https://github.com/WalkingMachine/transparent_objects.git
+    uri: https://github.com/wg-perception/transparent_objects.git
 
 - git:
     local-name: capture
-    uri: https://github.com/WalkingMachine/capture.git
-
-- git:
-    local-name: ork_tutorials
-    uri: https://github.com/WalkingMachine/ork_tutorials.git
+    uri: https://github.com/wg-perception/capture.git
 
 - git:
     local-name: object_recognition_msgs
-    uri: https://github.com./WalkingMachine/object_recognition_msgs.git
+    uri: https://github.com./wg-perception/object_recognition_msgs.git
 
 - git:
     local-name: soem
