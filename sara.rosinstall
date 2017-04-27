@@ -146,6 +146,12 @@
     local-name: capture
     uri: https://github.com/wg-perception/capture.git
 
+
+- git:
+    local-name: object_library
+    uri: https://github.com/WalkingMachine/objects_library.git
+
+
 - git:
     local-name: object_recognition_msgs
     uri: https://github.com./wg-perception/object_recognition_msgs.git
