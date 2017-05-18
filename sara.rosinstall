@@ -31,10 +31,6 @@
     uri: https://github.com/WalkingMachine/sara_moveit.git
 
 - git:
-    local-name: wm_pcl_preprocessing
-    uri: https://github.com/WalkingMachine/wm_pcl_preprocessing.git
-
-- git:
     local-name: robotiq_hardware
     uri: https://github.com/WalkingMachine/robotiq_hardware.git
 
