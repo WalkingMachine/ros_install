@@ -176,3 +176,7 @@
     local-name: people
     uri: https://github.com/wg-perception/people.git
     version: kinetic
+
+- git:
+    local-name: navigation_layers
+    uri: https://github.com/DLu/navigation_layers.git 
