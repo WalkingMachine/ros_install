@@ -171,3 +171,8 @@
 - git:
     local-name: lu4r_ros
     uri: https://github.com/WalkingMachine/lu4r_ros.git
+
+- git:
+    local-name: people
+    uri: https://github.com/wg-perception/people.git
+    version: kinetic
