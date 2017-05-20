@@ -174,7 +174,7 @@
 
 - git:
     local-name: people
-    uri: https://github.com/wg-perception/people.git
+    uri: https://github.com/WalkingMachine/people.git
     version: kinetic
 
 - git:
