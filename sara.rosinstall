@@ -172,3 +172,15 @@
     local-name: lu4r_ros
     uri: https://github.com/WalkingMachine/lu4r_ros.git
 
+- git:
+    local-name: people
+    uri: https://github.com/WalkingMachine/people.git
+    version: kinetic
+
+- git:
+    local-name: navigation_layers
+    uri: https://github.com/DLu/navigation_layers.git 
+
+- git:
+    local-name: wm_door_detector
+    uri: https://github.com/WalkingMachine/wm_door_detector.git
