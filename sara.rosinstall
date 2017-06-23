@@ -1,7 +1,7 @@
 - git:
     local-name: wm_mecanum_cmd
     uri: https://github.com/WalkingMachine/wm_mecanum_cmd.git
-   
+
 - git:
     local-name: sara_description
     uri: https://github.com/WalkingMachine/sara_description.git
@@ -167,7 +167,7 @@
 - git:
     local-name: sara_skills
     uri: https://github.com/WalkingMachine/sara_skills.git
-    
+
 - git:
     local-name: lu4r_ros
     uri: https://github.com/WalkingMachine/lu4r_ros.git
@@ -180,6 +180,10 @@
 - git:
     local-name: navigation_layers
     uri: https://github.com/DLu/navigation_layers.git 
+
+- git:
+    local-name: wm_door_detector
+    uri: https://github.com/WalkingMachine/wm_door_detector.git
 
 - git:
     local-name: sara_joke
