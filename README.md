@@ -12,3 +12,6 @@ Example:
     local-name: example_packages
     uri: https://github.com/WalkingMachine/example_packages.git
 ```
+
+## Pull Request
+One pull request for adding or removing a packages. This is to be able to open a discussion about why to add or remove that packages
