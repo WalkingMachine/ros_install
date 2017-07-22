@@ -150,7 +150,7 @@
 
 - git:
     local-name: object_recognition_msgs
-    uri: https://github.com./wg-perception/object_recognition_msgs.git
+    uri: https://github.com/wg-perception/object_recognition_msgs.git
 
 - git:
     local-name: soem
